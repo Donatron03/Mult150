@@ -1,0 +1,13 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+Texture 1 source url: https://www.vecteezy.com/photo/23516114-white-grey-marble-texture-background-in-natural-pattern-with-high-resolution-tiles-luxury-stone-floor-seamless-glitter-nterior-exterior-generative-ai
+
+Texture 2 source url: https://hu.pinterest.com/pin/57772807709596026/
+
+3D model source url: https://assetstore.unity.com/packages/3d/characters/animals/toon-fox-183005
